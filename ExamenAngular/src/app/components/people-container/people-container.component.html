@@ -1,0 +1,19 @@
+<main>
+  <button (click)="limit()" >Show only the first 10 people ordered by name, older than 21</button>
+  <table>
+    <tr>
+      <th>Index</th>
+      <th>Name</th>
+      <th>Birthdate</th>
+      <th>Phone Number</th>
+    </tr>
+    <tr class="person-row" *ngFor="let person of showPeople; index as i" (click)="editPerson(person)">
+      <td>{{ i + 1 }}</td>
+      <td>{{ person?.name }}</td>
+      <td>{{ person?.birthDate }}</td>
+      <td>{{ person?.phoneNumber }}</td>
+    </tr>
+    <div (click)="editing=false" *ngIf="editing" class="background"></div>
+    <app-person-editor (changed)="loadPeople(); editing=false"  *ngIf="editing" [person]="editingPerson"></app-person-editor>
+  </table>
+</main>

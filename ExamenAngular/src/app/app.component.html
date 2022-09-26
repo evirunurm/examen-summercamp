@@ -1,0 +1,18 @@
+<div>
+  <h1>Human Resources</h1>
+  <app-people-container [updateEvent]="updateEvent.asObservable()"> ></app-people-container>
+  <form class="form" #addNew>
+    <p>{{message}}</p>
+    <label for="Name">Name</label>
+    <input required #newName name="Name" id="Name" type="text" maxlength="50">
+
+    <label for="birthdate">Birthday</label>
+    <input required #newBirthday name="birthdate" id="birthdate" type="date">
+
+    <label for="phonenumber">Phonenumber</label>
+    <input required #newPhone name="phonenumber" id="phonenumber" type="text" maxlength="25">
+    <button (click)="create()">Create new person</button>
+  </form>
+</div>
+
+

@@ -1,0 +1,15 @@
+<div class="container">
+  <form #form >
+    <p>{{message}}</p>
+    <label for="Name">Name</label>
+    <input required [defaultValue]="person?.name"  name="Name" id="Name" type="text" maxlength="50">
+
+    <label for="birthdate">Birthday</label>
+    <input required [defaultValue]="person?.birthDate" name="birthdate" id="birthdate" type="date">
+
+    <label for="phonenumber">Phonenumber</label>
+    <input required [defaultValue]="person?.phoneNumber"  name="phonenumber" id="phonenumber" type="text" maxlength="25">
+    <button (click)="submit()">Submit</button>
+  </form>
+  <button (click)="delete()">Delete</button>
+</div>

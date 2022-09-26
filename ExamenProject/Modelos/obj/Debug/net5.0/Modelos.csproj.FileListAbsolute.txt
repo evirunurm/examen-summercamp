@@ -1,0 +1,24 @@
+C:\Users\pmpcurso1\Desktop\Aplicación Summercamp\ExamenProject\Modelos\bin\Debug\net5.0\Modelos.deps.json
+C:\Users\pmpcurso1\Desktop\Aplicación Summercamp\ExamenProject\Modelos\bin\Debug\net5.0\Modelos.dll
+C:\Users\pmpcurso1\Desktop\Aplicación Summercamp\ExamenProject\Modelos\bin\Debug\net5.0\Modelos.pdb
+C:\Users\pmpcurso1\Desktop\Aplicación Summercamp\ExamenProject\Modelos\obj\Debug\net5.0\Modelos.csproj.AssemblyReference.cache
+C:\Users\pmpcurso1\Desktop\Aplicación Summercamp\ExamenProject\Modelos\obj\Debug\net5.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmpcurso1\Desktop\Aplicación Summercamp\ExamenProject\Modelos\obj\Debug\net5.0\Modelos.AssemblyInfoInputs.cache
+C:\Users\pmpcurso1\Desktop\Aplicación Summercamp\ExamenProject\Modelos\obj\Debug\net5.0\Modelos.AssemblyInfo.cs
+C:\Users\pmpcurso1\Desktop\Aplicación Summercamp\ExamenProject\Modelos\obj\Debug\net5.0\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\pmpcurso1\Desktop\Aplicación Summercamp\ExamenProject\Modelos\obj\Debug\net5.0\Modelos.dll
+C:\Users\pmpcurso1\Desktop\Aplicación Summercamp\ExamenProject\Modelos\obj\Debug\net5.0\refint\Modelos.dll
+C:\Users\pmpcurso1\Desktop\Aplicación Summercamp\ExamenProject\Modelos\obj\Debug\net5.0\Modelos.pdb
+C:\Users\pmpcurso1\Desktop\Aplicación Summercamp\ExamenProject\Modelos\obj\Debug\net5.0\ref\Modelos.dll
+C:\Users\pmpcurso1\Desktop\Examen\ExamenProject\Modelos\bin\Debug\net5.0\Modelos.deps.json
+C:\Users\pmpcurso1\Desktop\Examen\ExamenProject\Modelos\bin\Debug\net5.0\Modelos.dll
+C:\Users\pmpcurso1\Desktop\Examen\ExamenProject\Modelos\bin\Debug\net5.0\Modelos.pdb
+C:\Users\pmpcurso1\Desktop\Examen\ExamenProject\Modelos\obj\Debug\net5.0\Modelos.csproj.AssemblyReference.cache
+C:\Users\pmpcurso1\Desktop\Examen\ExamenProject\Modelos\obj\Debug\net5.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmpcurso1\Desktop\Examen\ExamenProject\Modelos\obj\Debug\net5.0\Modelos.AssemblyInfoInputs.cache
+C:\Users\pmpcurso1\Desktop\Examen\ExamenProject\Modelos\obj\Debug\net5.0\Modelos.AssemblyInfo.cs
+C:\Users\pmpcurso1\Desktop\Examen\ExamenProject\Modelos\obj\Debug\net5.0\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\pmpcurso1\Desktop\Examen\ExamenProject\Modelos\obj\Debug\net5.0\Modelos.dll
+C:\Users\pmpcurso1\Desktop\Examen\ExamenProject\Modelos\obj\Debug\net5.0\refint\Modelos.dll
+C:\Users\pmpcurso1\Desktop\Examen\ExamenProject\Modelos\obj\Debug\net5.0\Modelos.pdb
+C:\Users\pmpcurso1\Desktop\Examen\ExamenProject\Modelos\obj\Debug\net5.0\ref\Modelos.dll
